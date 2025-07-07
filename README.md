@@ -38,7 +38,6 @@ SEEQ is becoming a standard for advanced data analytics in the process industry.
 ## Learn More
 
 - [SEEQ Official Website](https://www.seeq.com/)
-- [SEEQ Data Lab Documentation](https://seeq.gitbook.io/seeq-data-lab/)
 
 ---
 
